@@ -1,4 +1,4 @@
-Sandbox
+Playground
 =======
 
-Sandbox - A Learning Playground
+Playground - A Learning Playground
